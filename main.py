@@ -26,17 +26,18 @@ while True:
                 print("Váš výsledek je " + str(result))
                 
                 
-        
-           
-                    
-                
+          
                  
         math()
+
+        
         choice = str(input("Budete mě ještě znova potřebovat?: (y/n): "))
         if choice == "n":
+            print("Mějte se hezky, zatím nashledanou :)")
+            time.sleep(1)
             break
         else:
-            print("Jdme na další čísla :)")
+            print("Jdeme na další čísla :)")
         
         
         
