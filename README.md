@@ -1,0 +1,2 @@
+# Kalkulačka
+# Autor: Bob Čermák
